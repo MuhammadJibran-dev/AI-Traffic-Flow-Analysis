@@ -51,13 +51,13 @@ Installation
 
 Clone the repository:
 
-```bash
+
 git clone https://github.com/YOUR_USERNAME/AI-Traffic-Flow-Analysis.git
-```
+
 
 Install dependencies:
 
-```bash
+```
 pip install -r requirements.txt
 ```
 
