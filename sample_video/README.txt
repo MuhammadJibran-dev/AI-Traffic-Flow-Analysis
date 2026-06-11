@@ -6,9 +6,7 @@ If the sample video is unavailable, corrupted, or does not play correctly on you
 
 Simply update the video path in the notebook:
 
-```python
 cap = cv2.VideoCapture("your_video.mp4")
-```
 
 and run the notebook again.
 
