@@ -51,9 +51,9 @@ Installation
 
 Clone the repository:
 
-
+```
 git clone https://github.com/YOUR_USERNAME/AI-Traffic-Flow-Analysis.git
-
+```
 
 Install dependencies:
 
