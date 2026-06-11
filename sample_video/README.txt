@@ -1,4 +1,4 @@
-## Sample Video
+ Sample Video
 
 A sample traffic video may be included in the repository for testing purposes.
 
